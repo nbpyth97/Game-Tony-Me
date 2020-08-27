@@ -8,16 +8,16 @@ guardian = Guardian()
 
 class Tank:
     def __init__(self, hp, at, de):
-        self.hp = hp
-        self.at = at
-        self.de = de
+        self.hp = 60
+        self.at = 30
+        self.de = 70
 
-tank = Tank(60, 30, 70)
+tank = Tank()
 
 class Magician:
     def __init__(self, hp, at, de):
-        self.hp = hp
-        self.at = at
-        self.de = de
+        self.hp = 40
+        self.at = 80
+        self.de = 40
 
-magician = Magician(40, 80, 40)
+magician = Magician()
