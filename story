@@ -12,12 +12,19 @@ You have chosen the second path and arrived at a swamp. You can either cross the
   >you rest the night at the tree and sleep well under a heaven full of stars. you gain +5 HP
   >you continue your journey through the night to reach the other end of the swamp. 
 
+You pass through old ruins and you feel uneasy. Something or someone is watching you. You prepare to fight as an enemy ambushes you. Do you wish to engage in the fight or try fleeing?
+  >you dodge the enemies attacks and make a run for it but he hits you with his claws in in your back. You start bleeding but continue to run away. 
+  >you engage the enemy and swing a first attack. 
+    (START FIGHT SEQUENCE HERE)
+
+
 3.
 You have chosen the third path. You encounter another traveller. Do you wish to speak to him or continue your journey?
 >you speak to the traveller. The traveller tells you about about danger ahead and to not fall for the tricks. he hands you a piece of paper and tells you to only read it when the time is right. you remain curious and continue forward.
 >you ignore the traveller and continue your journey.
 
 You have arrived at a big stone plate with engraved writings. You are curious and begin to read it. "Only those worthy will have an easy day, while those ignorant will suffer a horrible night."
+  >you 
 
 
 
